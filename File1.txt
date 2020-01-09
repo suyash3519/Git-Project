@@ -1,7 +1,0 @@
-Hello world...
-
-Git...
-
-feature 1 - Login
-
-feature 2 - Logout
