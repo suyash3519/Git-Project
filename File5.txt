@@ -4,6 +4,15 @@ Git...
 
 feature 1 - Login
 
-feature 2 - Logout
+feature 2 - Logout 
 
+<<<<<<< HEAD
 Bug1
+=======
+hello bug1
+>>>>>>> bug1
+
+
+
+
+bug 2 fixed
