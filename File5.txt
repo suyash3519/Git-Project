@@ -4,7 +4,20 @@ Git...
 
 feature 1 - Login - updated by team member for checking 3 way merging
 
-feature 2 - Logout
+feature 2 - Logout 
 
+<<<<<<< HEAD
 Bug1
 
+=======
+<<<<<<< HEAD
+Bug1
+=======
+hello bug1
+>>>>>>> bug1
+
+
+
+
+bug 2 fixed
+>>>>>>> bug2
