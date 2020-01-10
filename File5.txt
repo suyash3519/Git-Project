@@ -2,8 +2,9 @@ Hello world...
 
 Git...
 
-feature 1 - Login
+feature 1 - Login - updated by team member for checking 3 way merging
 
 feature 2 - Logout
 
 Bug1
+
