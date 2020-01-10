@@ -21,3 +21,6 @@ hello bug1
 
 bug 2 fixed
 >>>>>>> bug2
+
+
+CR1 created
